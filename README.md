@@ -64,7 +64,9 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
     -  <a href="http://habrahabr.ru/post/224593/">Лямбда-выражения в Java 8</a>
     -  <a href="http://habrahabr.ru/company/luxoft/blog/270383/">Шпаргалка Java Stream API</a>
     -  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view">Time complexity</a>
-
+    -  <a href="https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма">Временная сложность алгоритма</a>
+    -  <a href="https://ru.wikipedia.org/wiki/Вычислительная_сложность">Вычислительная сложность</a>
+    
 ## Домашнее задание HW0
      Реализовать UserMealsUtil.getFilteredMealsWithExceeded:
      -  должны возвращаться только записи между startTime и endTime 

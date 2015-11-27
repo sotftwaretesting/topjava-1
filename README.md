@@ -74,12 +74,12 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
     Т.е UserMealWithExceed - это запись одной еды, но поле exceeded 
     будет одинаково для всех записей за этот день.
     
-     - Проверте результат выполнения ДЗ!
-     - Оцените Time complexity вашего алгоритма.
+     - Проверте результат выполнения ДЗ (можно проверить логику по http://topjava.herokuapp.com/)!
+     - Оцените Time complexity вашего алгоритма (если он O(N*N)- попробуйте сделать O(N).
 
 Optional
 
-     Сделать реализация через Java 8 Stream API
+     Сделать реализация через Java 8 Stream API. Заменяйте forEach оператором stream.map(..)
 
 ### Ресурсы для подготовки к проекту 
 #### (желательно иметь представление для лучшего усвоения материала)
